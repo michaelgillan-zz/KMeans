@@ -1,0 +1,3 @@
+#ignore arff files used for testing
+*.arf
+
