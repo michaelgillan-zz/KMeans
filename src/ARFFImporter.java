@@ -46,7 +46,7 @@ public class ARFFImporter {
                             count++;
                         }
                     }
-                    Vector vector = new Vector(dimension, data);
+                    Vector vector = new Vector(data);
                     vectorList.add(vector);
                 }
 
